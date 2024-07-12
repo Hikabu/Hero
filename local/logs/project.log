@@ -1,0 +1,1509 @@
+2024-07-12T02:13:56.823Z - success: protocol editor-framework registered
+2024-07-12T02:13:56.824Z - success: protocol app registered
+2024-07-12T02:13:56.824Z - success: protocol theme registered
+2024-07-12T02:13:56.824Z - success: protocol packages registered
+2024-07-12T02:13:56.831Z - normal: Load ~/.CocosCreator/settings.json
+2024-07-12T02:13:56.840Z - success: protocol uuid registerred
+2024-07-12T02:13:56.840Z - success: protocol db registerred
+2024-07-12T02:13:56.840Z - success: protocol thumbnail registerred
+2024-07-12T02:13:56.876Z - normal: Initializing Asset Database
+2024-07-12T02:13:56.877Z - normal: checking language setting...
+2024-07-12T02:13:56.877Z - normal: Language: en
+2024-07-12T02:13:56.878Z - success: protocol unpack registerred
+2024-07-12T02:13:56.878Z - success: protocol disable-commonjs registerred
+2024-07-12T02:13:59.862Z - normal: connected!
+2024-07-12T02:14:00.445Z - normal: Check project /Users/valeriafedorova/Desktop/TestGame
+2024-07-12T02:14:00.447Z - normal: Initializing project /Users/valeriafedorova/Desktop/TestGame
+2024-07-12T02:14:00.550Z - success: adapters loaded
+2024-07-12T02:14:00.551Z - success: asset-db-debugger loaded
+2024-07-12T02:14:00.582Z - success: fb-audience-network loaded
+2024-07-12T02:14:00.600Z - success: fb-live-stream loaded
+2024-07-12T02:14:00.601Z - success: google-play-instant loaded
+2024-07-12T02:14:00.601Z - success: jsb-adapter loaded
+2024-07-12T02:14:00.604Z - success: package-manager loaded
+2024-07-12T02:14:00.605Z - success: runtime-adapters loaded
+2024-07-12T02:14:00.606Z - success: runtime-dev-tools loaded
+2024-07-12T02:14:00.607Z - success: ui-kit-preview-extra loaded
+2024-07-12T02:14:00.609Z - success: ui-kit-preview loaded
+2024-07-12T02:14:00.964Z - success: alipay-minigame loaded
+2024-07-12T02:14:00.968Z - success: assets loaded
+2024-07-12T02:14:00.970Z - success: baidugame-opendata loaded
+2024-07-12T02:14:00.970Z - success: baidugame loaded
+2024-07-12T02:14:00.972Z - success: builder loaded
+2024-07-12T02:14:00.973Z - success: bytedance-opendata loaded
+2024-07-12T02:14:00.974Z - success: bytedance loaded
+2024-07-12T02:14:00.976Z - success: channel-upload-tools loaded
+2024-07-12T02:14:01.035Z - success: cloud-function loaded
+2024-07-12T02:14:01.122Z - success: cocos-services loaded
+2024-07-12T02:14:01.124Z - success: console loaded
+2024-07-12T02:14:01.125Z - success: curve-editor loaded
+2024-07-12T02:14:01.130Z - success: fb-instant-games loaded
+2024-07-12T02:14:01.131Z - success: game-window loaded
+2024-07-12T02:14:01.131Z - success: google-instant-games loaded
+2024-07-12T02:14:01.133Z - success: hierarchy loaded
+2024-07-12T02:14:01.134Z - success: huawei-agc loaded
+2024-07-12T02:14:01.136Z - success: huawei-runtime loaded
+2024-07-12T02:14:01.138Z - success: inspector loaded
+2024-07-12T02:14:01.145Z - success: cpk-publish loaded
+2024-07-12T02:14:01.146Z - success: keystore loaded
+2024-07-12T02:14:01.155Z - success: link-sure-runtime loaded
+2024-07-12T02:14:01.160Z - success: node-library loaded
+2024-07-12T02:14:01.161Z - success: open-recent-items loaded
+2024-07-12T02:14:01.162Z - success: oppo-runtime loaded
+2024-07-12T02:14:01.163Z - success: package-asset loaded
+2024-07-12T02:14:01.164Z - success: preferences loaded
+2024-07-12T02:14:01.166Z - success: project-importer loaded
+2024-07-12T02:14:01.169Z - success: project-settings loaded
+2024-07-12T02:14:01.176Z - success: qtt-runtime loaded
+2024-07-12T02:14:01.178Z - success: scene loaded
+2024-07-12T02:14:01.178Z - success: simulator-debugger loaded
+2024-07-12T02:14:01.179Z - success: sprite-editor loaded
+2024-07-12T02:14:01.203Z - success: store loaded
+2024-07-12T02:14:01.204Z - success: taobao-creativeapp loaded
+2024-07-12T02:14:01.206Z - success: timeline loaded
+2024-07-12T02:14:01.208Z - success: vivo-runtime loaded
+2024-07-12T02:14:01.209Z - success: wechatgame-opendata loaded
+2024-07-12T02:14:01.211Z - success: wechatgame loaded
+2024-07-12T02:14:01.213Z - success: xiaomi-runtime loaded
+2024-07-12T02:14:01.244Z - success: im-plugin loaded
+2024-07-12T02:14:01.244Z - success: preview server running at http://localhost:7456
+2024-07-12T02:14:01.693Z - normal: Initializing Cocos2d
+2024-07-12T02:14:01.830Z - normal: Initializing engine extends
+2024-07-12T02:14:02.230Z - normal: Loading packages
+2024-07-12T02:14:02.231Z - normal: Run Application
+2024-07-12T02:14:03.987Z - normal: Stick.ts
+2024-07-12T02:14:04.193Z - success: cloud-function unloaded
+2024-07-12T02:14:05.308Z - info: Cocos Service load base data!
+2024-07-12T04:39:34.513Z - normal: Stick.ts
+2024-07-12T04:45:48.184Z - normal: Stick.ts
+2024-07-12T04:53:01.409Z - normal: Stick.ts
+2024-07-12T04:53:24.040Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 785.00
+2024-07-12T04:53:24.040Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T04:53:24.404Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T04:53:24.405Z - normal: Simulator: 
+2024-07-12T04:53:24.405Z - normal: Simulator: {
+2024-07-12T04:53:24.405Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T04:53:24.405Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T04:53:24.405Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T04:53:24.405Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T04:53:24.405Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T04:53:24.405Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T04:53:24.405Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T04:53:24.406Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T04:53:24.406Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T04:53:24.407Z - normal: Simulator: }
+2024-07-12T04:53:24.457Z - normal: Simulator: Project Config:
+2024-07-12T04:53:24.457Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T04:53:24.457Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T04:53:24.458Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T04:53:24.458Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T04:53:24.458Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T04:53:24.458Z - normal: Simulator:     show console: NO
+2024-07-12T04:53:24.458Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T04:53:24.458Z - normal: Simulator:     listen: 
+2024-07-12T04:53:24.458Z - normal: Simulator:     debugger: none
+2024-07-12T04:53:24.458Z - normal: Simulator:     add searching path:
+2024-07-12T04:53:24.462Z - normal: Simulator: resetDesignResolution request
+2024-07-12T04:53:24.462Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:53:24.462Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T04:53:24.462Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:53:24.463Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T04:53:24.502Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T04:53:24.506Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T04:53:24.506Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T04:53:24.576Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T04:53:24.580Z - normal: Simulator: resetDesignResolution request
+2024-07-12T04:53:24.580Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:53:24.580Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T04:53:24.580Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:53:24.841Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T04:53:24.846Z - normal: Simulator: iShow!
+2024-07-12T04:53:25.117Z - normal: Simulator: JS: Stick.ts
+2024-07-12T04:53:25.118Z - normal: Simulator: JS: load __quick_compile_project__: 9.615000000000009ms
+2024-07-12T04:53:25.704Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T04:53:25.718Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T04:53:25.718Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T04:53:25.783Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T04:53:25.784Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T04:53:29.616Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T04:53:29.616Z - normal: Simulator: GC begin ..., (js->native map) size: 151, all objects: 417
+2024-07-12T04:53:29.627Z - normal: Simulator: GC end ..., (js->native map) size: 112, all objects: 378
+2024-07-12T04:53:29.628Z - normal: Simulator: GC begin ..., (js->native map) size: 112, all objects: 378
+2024-07-12T04:53:29.634Z - normal: Simulator: GC end ..., (js->native map) size: 112, all objects: 378
+2024-07-12T04:53:29.637Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T04:53:29.638Z - normal: Simulator: Function object is released!
+2024-07-12T04:53:29.638Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T04:53:29.641Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T04:54:53.993Z - normal: Stick.ts
+2024-07-12T04:54:59.221Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 785.00
+2024-07-12T04:54:59.221Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T04:54:59.530Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T04:54:59.531Z - normal: Simulator: 
+2024-07-12T04:54:59.531Z - normal: Simulator: {
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T04:54:59.531Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T04:54:59.531Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T04:54:59.532Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T04:54:59.532Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T04:54:59.532Z - normal: Simulator: }
+2024-07-12T04:54:59.580Z - normal: Simulator: Project Config:
+2024-07-12T04:54:59.580Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T04:54:59.580Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T04:54:59.580Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T04:54:59.580Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T04:54:59.580Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T04:54:59.580Z - normal: Simulator:     show console: NO
+2024-07-12T04:54:59.580Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T04:54:59.581Z - normal: Simulator:     listen: 
+2024-07-12T04:54:59.581Z - normal: Simulator:     debugger: none
+2024-07-12T04:54:59.581Z - normal: Simulator:     add searching path:
+2024-07-12T04:54:59.592Z - normal: Simulator: resetDesignResolution request
+2024-07-12T04:54:59.592Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:54:59.592Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T04:54:59.592Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:54:59.593Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T04:54:59.618Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T04:54:59.623Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T04:54:59.623Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T04:54:59.696Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T04:54:59.701Z - normal: Simulator: resetDesignResolution request
+2024-07-12T04:54:59.701Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:54:59.701Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T04:54:59.702Z - normal: Simulator: ------------------------------------------------
+2024-07-12T04:54:59.959Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T04:54:59.964Z - normal: Simulator: iShow!
+2024-07-12T04:55:00.240Z - normal: Simulator: JS: Stick.ts
+2024-07-12T04:55:00.241Z - normal: Simulator: JS: load __quick_compile_project__: 7.684999999999945ms
+2024-07-12T04:55:00.821Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T04:55:00.831Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T04:55:00.831Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T04:55:00.899Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T04:55:00.900Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T04:55:06.013Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T04:55:06.013Z - normal: Simulator: GC begin ..., (js->native map) size: 151, all objects: 417
+2024-07-12T04:55:06.026Z - normal: Simulator: GC end ..., (js->native map) size: 112, all objects: 378
+2024-07-12T04:55:06.026Z - normal: Simulator: GC begin ..., (js->native map) size: 112, all objects: 378
+2024-07-12T04:55:06.033Z - normal: Simulator: GC end ..., (js->native map) size: 112, all objects: 378
+2024-07-12T04:55:06.037Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T04:55:06.037Z - normal: Simulator: Function object is released!
+2024-07-12T04:55:06.037Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T04:55:06.039Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T04:58:08.894Z - normal: Stick.ts
+2024-07-12T06:53:09.743Z - error: Error: Parsing file /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/src/assets/Scripts/Stick.js: Unexpected token (50:14)
+    at Deps.parseDeps (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/module-deps/index.js:481:28)
+    at getDeps (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/module-deps/index.js:414:40)
+    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/module-deps/index.js:398:32
+    at ConcatStream.<anonymous> (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/concat-stream/index.js:36:43)
+    at ConcatStream.emit (events.js:327:22)
+    at ConcatStream.emit (domain.js:467:12)
+    at finishMaybe (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_writable.js:475:14)
+    at endWritable (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_writable.js:485:3)
+    at ConcatStream.end (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_writable.js:455:41)
+    at DestroyableTransform.onend (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/node_modules/readable-stream/lib/_stream_readable.js:577:10)
+    at m._parseEntry (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor/share/quick-compile/index.ccc:1:6414)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Promise.all (index 0)
+    at async m._compileScripts (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor/share/quick-compile/index.ccc:1:3491)
+2024-07-12T06:53:10.080Z - failed: load script [./assets/Scripts/Stick] failed : /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:50
+        this. = new cc.Node();
+              ^
+
+SyntaxError: Unexpected token '='
+    at new Script (vm.js:101:7)
+    at createScript (vm.js:262:10)
+    at Object.runInThisContext (vm.js:310:10)
+    at wrapSafe (internal/modules/cjs/loader.js:974:15)
+    at Module._compile (internal/modules/cjs/loader.js:1034:27)
+    at Object.p (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/require.js:1:1969)
+    at Module.load (internal/modules/cjs/loader.js:935:32)
+    at Module._load (internal/modules/cjs/loader.js:776:14)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
+2024-07-12T07:36:22.942Z - normal: Stick.ts
+2024-07-12T07:37:18.733Z - normal: Stick.ts
+2024-07-12T07:37:22.891Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 781.00
+2024-07-12T07:37:22.891Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T07:37:23.167Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T07:37:23.168Z - normal: Simulator: 
+2024-07-12T07:37:23.168Z - normal: Simulator: {
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T07:37:23.168Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T07:37:23.169Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T07:37:23.169Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T07:37:23.169Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T07:37:23.169Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T07:37:23.169Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T07:37:23.169Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T07:37:23.169Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T07:37:23.169Z - normal: Simulator: }
+2024-07-12T07:37:23.213Z - normal: Simulator: Project Config:
+2024-07-12T07:37:23.213Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T07:37:23.213Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T07:37:23.213Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T07:37:23.213Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T07:37:23.213Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T07:37:23.213Z - normal: Simulator:     show console: NO
+2024-07-12T07:37:23.213Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T07:37:23.213Z - normal: Simulator:     listen: 
+2024-07-12T07:37:23.213Z - normal: Simulator:     debugger: none
+2024-07-12T07:37:23.213Z - normal: Simulator:     add searching path:
+2024-07-12T07:37:23.217Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:37:23.217Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:37:23.217Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T07:37:23.217Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:37:23.217Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T07:37:23.246Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T07:37:23.250Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T07:37:23.250Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T07:37:23.312Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T07:37:23.316Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:37:23.316Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:37:23.316Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T07:37:23.316Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:37:23.502Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T07:37:23.505Z - normal: Simulator: iShow!
+2024-07-12T07:37:23.654Z - normal: Simulator: JS: Stick.ts
+2024-07-12T07:37:23.654Z - normal: Simulator: JS: load __quick_compile_project__: 4.1580000000000155ms
+2024-07-12T07:37:23.991Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T07:37:24.005Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T07:37:24.005Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T07:37:24.047Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:37:24.047Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:37:28.387Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T07:37:28.388Z - normal: Simulator: GC begin ..., (js->native map) size: 159, all objects: 435
+2024-07-12T07:37:28.395Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:37:28.396Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:37:28.400Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:37:28.402Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:37:28.403Z - normal: Simulator: Function object is released!
+2024-07-12T07:37:28.403Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:37:28.405Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T07:40:10.315Z - normal: Stick.ts
+2024-07-12T07:40:27.770Z - normal: Stick.ts
+2024-07-12T07:41:21.234Z - normal: Stick.ts
+2024-07-12T07:41:26.387Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 781.00
+2024-07-12T07:41:26.387Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T07:41:26.658Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T07:41:26.658Z - normal: Simulator: 
+2024-07-12T07:41:26.658Z - normal: Simulator: {
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T07:41:26.658Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T07:41:26.658Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T07:41:26.659Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T07:41:26.659Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T07:41:26.659Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T07:41:26.659Z - normal: Simulator: }
+2024-07-12T07:41:26.704Z - normal: Simulator: Project Config:
+2024-07-12T07:41:26.706Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T07:41:26.706Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T07:41:26.706Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T07:41:26.706Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T07:41:26.706Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T07:41:26.707Z - normal: Simulator:     show console: NO
+2024-07-12T07:41:26.707Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T07:41:26.707Z - normal: Simulator:     listen: 
+2024-07-12T07:41:26.707Z - normal: Simulator:     debugger: none
+2024-07-12T07:41:26.707Z - normal: Simulator:     add searching path:
+2024-07-12T07:41:26.708Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:41:26.714Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:41:26.715Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T07:41:26.715Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:41:26.718Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T07:41:26.742Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T07:41:26.747Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T07:41:26.748Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T07:41:26.811Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T07:41:26.814Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:41:26.815Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:41:26.815Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T07:41:26.815Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:41:26.986Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T07:41:26.990Z - normal: Simulator: iShow!
+2024-07-12T07:41:27.146Z - normal: Simulator: JS: Stick.ts
+2024-07-12T07:41:27.147Z - normal: Simulator: JS: load __quick_compile_project__: 4.562999999999988ms
+2024-07-12T07:41:27.514Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T07:41:27.525Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T07:41:27.525Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T07:41:27.565Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:41:27.565Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:41:36.809Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T07:41:36.809Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:41:36.817Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:41:36.817Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:41:36.821Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:41:36.824Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:41:36.825Z - normal: Simulator: Function object is released!
+2024-07-12T07:41:36.825Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:41:36.827Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T07:43:18.548Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 785.00
+2024-07-12T07:43:18.549Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T07:43:18.736Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T07:43:18.736Z - normal: Simulator: 
+2024-07-12T07:43:18.737Z - normal: Simulator: {
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T07:43:18.737Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T07:43:18.737Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T07:43:18.737Z - normal: Simulator: }
+2024-07-12T07:43:18.751Z - normal: Simulator: Project Config:
+2024-07-12T07:43:18.751Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T07:43:18.751Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T07:43:18.751Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T07:43:18.751Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T07:43:18.751Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T07:43:18.751Z - normal: Simulator:     show console: NO
+2024-07-12T07:43:18.751Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T07:43:18.751Z - normal: Simulator:     listen: 
+2024-07-12T07:43:18.751Z - normal: Simulator:     debugger: none
+2024-07-12T07:43:18.751Z - normal: Simulator:     add searching path:
+2024-07-12T07:43:18.753Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:43:18.753Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:18.753Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T07:43:18.753Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:18.754Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T07:43:18.775Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T07:43:18.776Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T07:43:18.777Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T07:43:18.823Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T07:43:18.826Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:43:18.826Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:18.826Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T07:43:18.826Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:18.995Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T07:43:18.998Z - normal: Simulator: iShow!
+2024-07-12T07:43:19.149Z - normal: Simulator: JS: Stick.ts
+2024-07-12T07:43:19.150Z - normal: Simulator: JS: load __quick_compile_project__: 4.257000000000005ms
+2024-07-12T07:43:19.482Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T07:43:19.496Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T07:43:19.497Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T07:43:19.537Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:43:19.537Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:43:23.270Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T07:43:23.270Z - normal: Simulator: GC begin ..., (js->native map) size: 159, all objects: 435
+2024-07-12T07:43:23.279Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:43:23.279Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:43:23.282Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:43:23.284Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:43:23.284Z - normal: Simulator: Function object is released!
+2024-07-12T07:43:23.284Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:43:23.286Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T07:43:51.169Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 785.00
+2024-07-12T07:43:51.169Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T07:43:51.230Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T07:43:51.230Z - normal: Simulator: 
+2024-07-12T07:43:51.230Z - normal: Simulator: {
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T07:43:51.231Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T07:43:51.231Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T07:43:51.232Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T07:43:51.232Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T07:43:51.232Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T07:43:51.232Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T07:43:51.232Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T07:43:51.232Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T07:43:51.232Z - normal: Simulator: }
+2024-07-12T07:43:51.247Z - normal: Simulator: Project Config:
+2024-07-12T07:43:51.247Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T07:43:51.247Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T07:43:51.247Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T07:43:51.247Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T07:43:51.247Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T07:43:51.247Z - normal: Simulator:     show console: NO
+2024-07-12T07:43:51.247Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T07:43:51.248Z - normal: Simulator:     listen: 
+2024-07-12T07:43:51.248Z - normal: Simulator:     debugger: none
+2024-07-12T07:43:51.248Z - normal: Simulator:     add searching path:
+2024-07-12T07:43:51.248Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:43:51.248Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:51.248Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T07:43:51.248Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:51.248Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T07:43:51.274Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T07:43:51.277Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T07:43:51.278Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T07:43:51.321Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T07:43:51.324Z - normal: Simulator: resetDesignResolution request
+2024-07-12T07:43:51.324Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:51.324Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T07:43:51.324Z - normal: Simulator: ------------------------------------------------
+2024-07-12T07:43:51.469Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T07:43:51.472Z - normal: Simulator: iShow!
+2024-07-12T07:43:51.532Z - normal: Simulator: JS: Stick.ts
+2024-07-12T07:43:51.533Z - normal: Simulator: JS: load __quick_compile_project__: 4.211000000000013ms
+2024-07-12T07:43:51.879Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T07:43:51.888Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T07:43:51.888Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T07:43:51.926Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:43:51.927Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T07:43:58.609Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T07:43:58.610Z - normal: Simulator: GC begin ..., (js->native map) size: 159, all objects: 435
+2024-07-12T07:43:58.618Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:43:58.618Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:43:58.622Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T07:43:58.624Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:43:58.624Z - normal: Simulator: Function object is released!
+2024-07-12T07:43:58.624Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T07:43:58.626Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T08:31:35.795Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 779.00
+2024-07-12T08:31:35.796Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T08:31:36.176Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T08:31:36.176Z - normal: Simulator: 
+2024-07-12T08:31:36.176Z - normal: Simulator: {
+2024-07-12T08:31:36.176Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T08:31:36.176Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T08:31:36.176Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T08:31:36.177Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T08:31:36.178Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T08:31:36.178Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T08:31:36.178Z - normal: Simulator: }
+2024-07-12T08:31:36.227Z - normal: Simulator: Project Config:
+2024-07-12T08:31:36.228Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T08:31:36.228Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T08:31:36.228Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T08:31:36.228Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T08:31:36.228Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T08:31:36.228Z - normal: Simulator:     show console: NO
+2024-07-12T08:31:36.228Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T08:31:36.228Z - normal: Simulator:     listen: 
+2024-07-12T08:31:36.228Z - normal: Simulator:     debugger: none
+2024-07-12T08:31:36.228Z - normal: Simulator:     add searching path:
+2024-07-12T08:31:36.234Z - normal: Simulator: resetDesignResolution request
+2024-07-12T08:31:36.235Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:31:36.235Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T08:31:36.235Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:31:36.235Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T08:31:36.272Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T08:31:36.276Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T08:31:36.277Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T08:31:36.354Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T08:31:36.361Z - normal: Simulator: resetDesignResolution request
+2024-07-12T08:31:36.361Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:31:36.361Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T08:31:36.361Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:31:36.621Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T08:31:36.627Z - normal: Simulator: iShow!
+2024-07-12T08:31:36.888Z - normal: Simulator: JS: Stick.ts
+2024-07-12T08:31:36.888Z - normal: Simulator: JS: load __quick_compile_project__: 7.076999999999998ms
+2024-07-12T08:31:37.470Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T08:31:37.478Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T08:31:37.478Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T08:31:37.548Z - normal: Simulator: JS: Stick onLoad
+2024-07-12T08:31:43.039Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T08:31:43.045Z - normal: Simulator: GC begin ..., (js->native map) size: 163, all objects: 439
+2024-07-12T08:31:43.052Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T08:31:43.052Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T08:31:43.061Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T08:31:43.062Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T08:31:43.062Z - normal: Simulator: Function object is released!
+2024-07-12T08:31:43.063Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T08:31:43.065Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T08:33:01.652Z - normal: Stick.ts
+2024-07-12T08:36:23.024Z - normal: Stick.ts
+2024-07-12T08:37:49.165Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T08:38:45.100Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T08:38:48.275Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 779.00
+2024-07-12T08:38:48.275Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T08:38:48.539Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T08:38:48.540Z - normal: Simulator: 
+2024-07-12T08:38:48.540Z - normal: Simulator: {
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T08:38:48.540Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T08:38:48.540Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T08:38:48.541Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T08:38:48.541Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T08:38:48.541Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T08:38:48.541Z - normal: Simulator: }
+2024-07-12T08:38:48.560Z - normal: Simulator: Project Config:
+2024-07-12T08:38:48.560Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T08:38:48.560Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T08:38:48.560Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T08:38:48.560Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T08:38:48.560Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T08:38:48.560Z - normal: Simulator:     show console: NO
+2024-07-12T08:38:48.560Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T08:38:48.560Z - normal: Simulator:     listen: 
+2024-07-12T08:38:48.560Z - normal: Simulator:     debugger: none
+2024-07-12T08:38:48.560Z - normal: Simulator:     add searching path:
+2024-07-12T08:38:48.563Z - normal: Simulator: resetDesignResolution request
+2024-07-12T08:38:48.563Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:38:48.565Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T08:38:48.565Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:38:48.565Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T08:38:48.587Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T08:38:48.591Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T08:38:48.591Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T08:38:48.657Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T08:38:48.660Z - normal: Simulator: resetDesignResolution request
+2024-07-12T08:38:48.660Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:38:48.660Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T08:38:48.661Z - normal: Simulator: ------------------------------------------------
+2024-07-12T08:38:48.918Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T08:38:48.922Z - normal: Simulator: iShow!
+2024-07-12T08:38:49.112Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T08:38:49.116Z - normal: Simulator: JS: load __quick_compile_project__: 10.891000000000076ms
+2024-07-12T08:38:49.666Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T08:38:49.678Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T08:38:49.678Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T08:38:49.744Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T08:38:56.572Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T08:38:56.573Z - normal: Simulator: GC begin ..., (js->native map) size: 163, all objects: 439
+2024-07-12T08:38:56.584Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T08:38:56.584Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T08:38:56.591Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T08:38:56.596Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T08:38:56.596Z - normal: Simulator: Function object is released!
+2024-07-12T08:38:56.596Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T08:38:56.597Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T08:44:34.077Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T08:44:59.296Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:14:25.438Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:15:15.014Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:15:29.051Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:15:29.051Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:15:29.988Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:15:29.988Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:15:30.192Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:15:30.192Z - normal: Simulator: 
+2024-07-12T09:15:30.193Z - normal: Simulator: {
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:15:30.193Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:15:30.194Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:15:30.194Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:15:30.194Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:15:30.194Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:15:30.194Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:15:30.194Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:15:30.194Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:15:30.194Z - normal: Simulator: }
+2024-07-12T09:15:30.244Z - normal: Simulator: Project Config:
+2024-07-12T09:15:30.244Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:15:30.244Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:15:30.244Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:15:30.244Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:15:30.244Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:15:30.244Z - normal: Simulator:     show console: NO
+2024-07-12T09:15:30.244Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:15:30.244Z - normal: Simulator:     listen: 
+2024-07-12T09:15:30.245Z - normal: Simulator:     debugger: none
+2024-07-12T09:15:30.245Z - normal: Simulator:     add searching path:
+2024-07-12T09:15:30.248Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:15:30.248Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:15:30.248Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:15:30.248Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:15:30.249Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:15:30.282Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:15:30.286Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:15:30.288Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:15:30.361Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:15:30.366Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:15:30.366Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:15:30.367Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:15:30.367Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:15:30.630Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:15:30.635Z - normal: Simulator: iShow!
+2024-07-12T09:15:30.843Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:15:30.849Z - normal: Simulator: JS: load __quick_compile_project__: 11.778999999999996ms
+2024-07-12T09:15:31.412Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:15:31.422Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:15:31.422Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:15:31.492Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:15:34.354Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:15:34.355Z - normal: Simulator: GC begin ..., (js->native map) size: 159, all objects: 435
+2024-07-12T09:15:34.388Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:15:34.388Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:15:34.397Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:15:34.400Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:15:34.400Z - normal: Simulator: Function object is released!
+2024-07-12T09:15:34.400Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:15:34.405Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:16:26.939Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:16:26.939Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:16:27.029Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:16:27.029Z - normal: Simulator: 
+2024-07-12T09:16:27.030Z - normal: Simulator: {
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:16:27.030Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:16:27.031Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:16:27.031Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:16:27.031Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:16:27.031Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:16:27.031Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:16:27.031Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:16:27.031Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:16:27.031Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:16:27.031Z - normal: Simulator: }
+2024-07-12T09:16:27.047Z - normal: Simulator: Project Config:
+2024-07-12T09:16:27.048Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:16:27.048Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:16:27.048Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:16:27.048Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:16:27.048Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:16:27.048Z - normal: Simulator:     show console: NO
+2024-07-12T09:16:27.048Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:16:27.048Z - normal: Simulator:     listen: 
+2024-07-12T09:16:27.048Z - normal: Simulator:     debugger: none
+2024-07-12T09:16:27.048Z - normal: Simulator:     add searching path:
+2024-07-12T09:16:27.050Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:16:27.050Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:27.051Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:16:27.051Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:27.051Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:16:27.082Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:16:27.086Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:16:27.086Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:16:27.143Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:16:27.147Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:16:27.147Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:27.147Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:16:27.147Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:27.373Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:16:27.377Z - normal: Simulator: iShow!
+2024-07-12T09:16:27.463Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:16:27.468Z - normal: Simulator: JS: load __quick_compile_project__: 11.673999999999978ms
+2024-07-12T09:16:28.021Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:16:28.032Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:16:28.032Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:16:28.102Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:16:35.533Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:16:35.533Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:35.546Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:35.547Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:35.552Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:35.555Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:16:35.555Z - normal: Simulator: Function object is released!
+2024-07-12T09:16:35.556Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:16:35.558Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:16:48.517Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:16:48.517Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:16:48.602Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:16:48.603Z - normal: Simulator: 
+2024-07-12T09:16:48.603Z - normal: Simulator: {
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:16:48.603Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:16:48.603Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:16:48.604Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:16:48.604Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:16:48.604Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:16:48.604Z - normal: Simulator: }
+2024-07-12T09:16:48.617Z - normal: Simulator: Project Config:
+2024-07-12T09:16:48.618Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:16:48.618Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:16:48.618Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:16:48.618Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:16:48.618Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:16:48.618Z - normal: Simulator:     show console: NO
+2024-07-12T09:16:48.618Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:16:48.618Z - normal: Simulator:     listen: 
+2024-07-12T09:16:48.618Z - normal: Simulator:     debugger: none
+2024-07-12T09:16:48.618Z - normal: Simulator:     add searching path:
+2024-07-12T09:16:48.620Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:16:48.620Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:48.620Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:16:48.620Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:48.623Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:16:48.653Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:16:48.656Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:16:48.657Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:16:48.711Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:16:48.715Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:16:48.715Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:48.715Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:16:48.715Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:16:48.948Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:16:48.956Z - normal: Simulator: iShow!
+2024-07-12T09:16:49.042Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:16:49.047Z - normal: Simulator: JS: load __quick_compile_project__: 11.305999999999983ms
+2024-07-12T09:16:49.597Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:16:49.606Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:16:49.608Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:16:49.674Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:16:53.046Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:16:53.046Z - normal: Simulator: GC begin ..., (js->native map) size: 163, all objects: 439
+2024-07-12T09:16:53.059Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:53.059Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:53.067Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:16:53.068Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:16:53.068Z - normal: Simulator: Function object is released!
+2024-07-12T09:16:53.068Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:16:53.073Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:17:39.805Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:17:39.805Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:17:39.889Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:17:39.889Z - normal: Simulator: 
+2024-07-12T09:17:39.889Z - normal: Simulator: {
+2024-07-12T09:17:39.889Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:17:39.889Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:17:39.889Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:17:39.889Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:17:39.889Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:17:39.890Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:17:39.890Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:17:39.890Z - normal: Simulator: }
+2024-07-12T09:17:39.906Z - normal: Simulator: Project Config:
+2024-07-12T09:17:39.906Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:17:39.906Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:17:39.906Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:17:39.906Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:17:39.906Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:17:39.907Z - normal: Simulator:     show console: NO
+2024-07-12T09:17:39.907Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:17:39.907Z - normal: Simulator:     listen: 
+2024-07-12T09:17:39.907Z - normal: Simulator:     debugger: none
+2024-07-12T09:17:39.907Z - normal: Simulator:     add searching path:
+2024-07-12T09:17:39.907Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:17:39.907Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:17:39.907Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:17:39.907Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:17:39.909Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:17:39.935Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:17:39.939Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:17:39.939Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:17:39.993Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:17:39.998Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:17:39.998Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:17:39.998Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:17:39.998Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:17:40.226Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:17:40.231Z - normal: Simulator: iShow!
+2024-07-12T09:17:40.315Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:17:40.321Z - normal: Simulator: JS: load __quick_compile_project__: 11.359000000000037ms
+2024-07-12T09:17:40.873Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:17:40.883Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:17:40.883Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:17:40.950Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:17:43.963Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:17:43.963Z - normal: Simulator: GC begin ..., (js->native map) size: 163, all objects: 439
+2024-07-12T09:17:43.976Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:17:43.976Z - normal: Simulator: GC begin ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:17:43.982Z - normal: Simulator: GC end ..., (js->native map) size: 120, all objects: 396
+2024-07-12T09:17:43.984Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:17:43.984Z - normal: Simulator: Function object is released!
+2024-07-12T09:17:43.984Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:17:43.988Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:20:26.337Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:20:26.338Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:20:26.434Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:20:26.434Z - normal: Simulator: 
+2024-07-12T09:20:26.434Z - normal: Simulator: {
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:20:26.435Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:20:26.435Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:20:26.436Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:20:26.436Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:20:26.436Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:20:26.437Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:20:26.437Z - normal: Simulator: }
+2024-07-12T09:20:26.446Z - normal: Simulator: Project Config:
+2024-07-12T09:20:26.446Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:20:26.446Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:20:26.446Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:20:26.447Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:20:26.447Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:20:26.447Z - normal: Simulator:     show console: NO
+2024-07-12T09:20:26.447Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:20:26.447Z - normal: Simulator:     listen: 
+2024-07-12T09:20:26.447Z - normal: Simulator:     debugger: none
+2024-07-12T09:20:26.447Z - normal: Simulator:     add searching path:
+2024-07-12T09:20:26.447Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:20:26.447Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:20:26.447Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:20:26.447Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:20:26.447Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:20:26.480Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:20:26.483Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:20:26.484Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:20:26.539Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:20:26.544Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:20:26.545Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:20:26.545Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:20:26.545Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:20:26.777Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:20:26.781Z - normal: Simulator: iShow!
+2024-07-12T09:20:26.865Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:20:26.871Z - normal: Simulator: JS: load __quick_compile_project__: 11.40300000000002ms
+2024-07-12T09:20:27.420Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:20:27.429Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:20:27.429Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:20:27.496Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:20:32.024Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:32.137Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:32.206Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:32.412Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:32.485Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:32.566Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:32.634Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:32.736Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:32.910Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:33.006Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:33.091Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:33.160Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:33.231Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:33.298Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:33.367Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:33.402Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:34.140Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:34.277Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:34.330Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:34.417Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:34.554Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:34.623Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:37.562Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:37.739Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:38.508Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:38.630Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:39.183Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:39.316Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:39.559Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:42.411Z - warn: Simulator: 2024-07-12 16:20:42.410 Simulator[45236:860758] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2024-07-12T09:20:42.849Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:43.408Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:20:45.471Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:20:46.765Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:20:46.765Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:20:46.779Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:20:46.780Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:20:46.788Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:20:46.790Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:20:46.790Z - normal: Simulator: Function object is released!
+2024-07-12T09:20:46.790Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:20:46.793Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:21:18.239Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:21:18.240Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:21:18.328Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:21:18.329Z - normal: Simulator: 
+2024-07-12T09:21:18.329Z - normal: Simulator: {
+2024-07-12T09:21:18.329Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:21:18.329Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:21:18.329Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:21:18.329Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:21:18.329Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:21:18.329Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:21:18.330Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:21:18.330Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:21:18.331Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:21:18.331Z - normal: Simulator: }
+2024-07-12T09:21:18.342Z - normal: Simulator: Project Config:
+2024-07-12T09:21:18.343Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:21:18.343Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:21:18.343Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:21:18.343Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:21:18.343Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:21:18.343Z - normal: Simulator:     show console: NO
+2024-07-12T09:21:18.343Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:21:18.343Z - normal: Simulator:     listen: 
+2024-07-12T09:21:18.343Z - normal: Simulator:     debugger: none
+2024-07-12T09:21:18.343Z - normal: Simulator:     add searching path:
+2024-07-12T09:21:18.345Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:21:18.345Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:18.345Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:21:18.346Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:18.346Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:21:18.378Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:21:18.381Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:21:18.382Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:21:18.438Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:21:18.444Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:21:18.444Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:18.444Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:21:18.444Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:18.681Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:21:18.689Z - normal: Simulator: iShow!
+2024-07-12T09:21:18.768Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:21:18.774Z - normal: Simulator: JS: load __quick_compile_project__: 11.221000000000004ms
+2024-07-12T09:21:19.321Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:21:19.331Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:21:19.331Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:21:19.398Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:21:29.106Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:21:29.107Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:29.117Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:29.117Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:29.124Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:29.127Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:21:29.127Z - normal: Simulator: Function object is released!
+2024-07-12T09:21:29.127Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:21:29.130Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:21:35.075Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:21:35.075Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:21:35.150Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:21:35.157Z - normal: Simulator: 
+2024-07-12T09:21:35.157Z - normal: Simulator: {
+2024-07-12T09:21:35.157Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:21:35.157Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:21:35.158Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:21:35.158Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:21:35.158Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:21:35.159Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:21:35.159Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:21:35.160Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:21:35.160Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:21:35.160Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:21:35.160Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:21:35.160Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:21:35.160Z - normal: Simulator: }
+2024-07-12T09:21:35.168Z - normal: Simulator: Project Config:
+2024-07-12T09:21:35.168Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:21:35.168Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:21:35.168Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:21:35.168Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:21:35.168Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:21:35.168Z - normal: Simulator:     show console: NO
+2024-07-12T09:21:35.169Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:21:35.169Z - normal: Simulator:     listen: 
+2024-07-12T09:21:35.169Z - normal: Simulator:     debugger: none
+2024-07-12T09:21:35.169Z - normal: Simulator:     add searching path:
+2024-07-12T09:21:35.175Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:21:35.175Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:35.175Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:21:35.175Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:35.175Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:21:35.176Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:21:35.176Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:21:35.176Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:21:35.198Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:21:35.200Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:21:35.200Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:35.200Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:21:35.200Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:35.403Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:21:35.408Z - normal: Simulator: iShow!
+2024-07-12T09:21:35.488Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:21:35.493Z - normal: Simulator: JS: load __quick_compile_project__: 10.531000000000006ms
+2024-07-12T09:21:36.038Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:21:36.050Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:21:36.050Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:21:36.116Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:21:38.603Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:21:39.184Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:21:40.373Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:21:40.373Z - normal: Simulator: GC begin ..., (js->native map) size: 154, all objects: 425
+2024-07-12T09:21:40.383Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:40.383Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:40.390Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:21:40.392Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:21:40.392Z - normal: Simulator: Function object is released!
+2024-07-12T09:21:40.392Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:21:40.394Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:21:59.412Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:21:59.413Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:21:59.490Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:21:59.492Z - normal: Simulator: 
+2024-07-12T09:21:59.492Z - normal: Simulator: {
+2024-07-12T09:21:59.492Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:21:59.492Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:21:59.492Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:21:59.492Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:21:59.492Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:21:59.492Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:21:59.492Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:21:59.493Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:21:59.494Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:21:59.494Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:21:59.494Z - normal: Simulator: }
+2024-07-12T09:21:59.508Z - normal: Simulator: Project Config:
+2024-07-12T09:21:59.508Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:21:59.509Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:21:59.509Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:21:59.509Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:21:59.509Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:21:59.509Z - normal: Simulator:     show console: NO
+2024-07-12T09:21:59.509Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:21:59.509Z - normal: Simulator:     listen: 
+2024-07-12T09:21:59.509Z - normal: Simulator:     debugger: none
+2024-07-12T09:21:59.510Z - normal: Simulator:     add searching path:
+2024-07-12T09:21:59.510Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:21:59.510Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:59.510Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:21:59.510Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:59.510Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:21:59.510Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:21:59.510Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:21:59.511Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:21:59.533Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:21:59.535Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:21:59.535Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:59.535Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:21:59.535Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:21:59.758Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:21:59.762Z - normal: Simulator: iShow!
+2024-07-12T09:21:59.840Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:21:59.845Z - normal: Simulator: JS: load __quick_compile_project__: 9.603000000000009ms
+2024-07-12T09:22:00.389Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:22:00.404Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:22:00.404Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:22:00.463Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:22:02.583Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:22:04.017Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:22:15.373Z - warn: Simulator: 2024-07-12 16:22:15.373 Simulator[45336:862293] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2024-07-12T09:22:19.573Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:22:19.574Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:19.580Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:19.580Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:19.588Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:19.590Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:22:19.590Z - normal: Simulator: Function object is released!
+2024-07-12T09:22:19.590Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:22:19.592Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:22:22.764Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:22:22.764Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:22:22.845Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:22:22.845Z - normal: Simulator: 
+2024-07-12T09:22:22.845Z - normal: Simulator: {
+2024-07-12T09:22:22.845Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:22:22.845Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:22:22.846Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:22:22.846Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:22:22.847Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:22:22.847Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:22:22.847Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:22:22.847Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:22:22.847Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:22:22.847Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:22:22.847Z - normal: Simulator: }
+2024-07-12T09:22:22.858Z - normal: Simulator: Project Config:
+2024-07-12T09:22:22.858Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:22:22.858Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:22:22.858Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:22:22.858Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:22:22.858Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:22:22.858Z - normal: Simulator:     show console: NO
+2024-07-12T09:22:22.858Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:22:22.858Z - normal: Simulator:     listen: 
+2024-07-12T09:22:22.858Z - normal: Simulator:     debugger: none
+2024-07-12T09:22:22.858Z - normal: Simulator:     add searching path:
+2024-07-12T09:22:22.861Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:22:22.861Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:22:22.861Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:22:22.861Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:22:22.861Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:22:22.863Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:22:22.863Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:22:22.863Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:22:22.887Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:22:22.889Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:22:22.889Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:22:22.889Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:22:22.889Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:22:23.092Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:22:23.096Z - normal: Simulator: iShow!
+2024-07-12T09:22:23.175Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:22:23.180Z - normal: Simulator: JS: load __quick_compile_project__: 9.668000000000006ms
+2024-07-12T09:22:23.715Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:22:23.729Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:22:23.729Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:22:23.791Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:22:26.407Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:22:26.526Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:22:26.731Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:22:27.952Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:22:28.726Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:22:30.189Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:22:35.046Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:22:37.507Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:22:38.715Z - warn: Simulator: 2024-07-12 16:22:38.714 Simulator[45362:862715] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2024-07-12T09:22:39.561Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:22:45.849Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:22:47.493Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:22:47.493Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:47.501Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:47.501Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:47.508Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:22:47.511Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:22:47.511Z - normal: Simulator: Function object is released!
+2024-07-12T09:22:47.511Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:22:47.513Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:23:09.330Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:23:10.962Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:23:10.962Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:23:11.054Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:23:11.054Z - normal: Simulator: 
+2024-07-12T09:23:11.054Z - normal: Simulator: {
+2024-07-12T09:23:11.054Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:23:11.054Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:23:11.054Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:23:11.054Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:23:11.054Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:23:11.055Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:23:11.056Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:23:11.056Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:23:11.056Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:23:11.056Z - normal: Simulator: }
+2024-07-12T09:23:11.068Z - normal: Simulator: Project Config:
+2024-07-12T09:23:11.068Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:23:11.068Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:23:11.068Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:23:11.068Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:23:11.068Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:23:11.068Z - normal: Simulator:     show console: NO
+2024-07-12T09:23:11.068Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:23:11.068Z - normal: Simulator:     listen: 
+2024-07-12T09:23:11.068Z - normal: Simulator:     debugger: none
+2024-07-12T09:23:11.068Z - normal: Simulator:     add searching path:
+2024-07-12T09:23:11.076Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:23:11.076Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:11.076Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:23:11.076Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:11.076Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:23:11.095Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:23:11.099Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:23:11.099Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:23:11.151Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:23:11.156Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:23:11.156Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:11.156Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:23:11.156Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:11.381Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:23:11.388Z - normal: Simulator: iShow!
+2024-07-12T09:23:11.472Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:23:11.477Z - normal: Simulator: JS: load __quick_compile_project__: 10.987000000000023ms
+2024-07-12T09:23:12.029Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:23:12.040Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:23:12.040Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:23:12.103Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:23:14.146Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:23:16.019Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:23:17.160Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:23:17.160Z - normal: Simulator: GC begin ..., (js->native map) size: 158, all objects: 429
+2024-07-12T09:23:17.173Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:17.173Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:17.180Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:17.182Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:23:17.183Z - normal: Simulator: Function object is released!
+2024-07-12T09:23:17.183Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:23:17.187Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:23:24.701Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:23:25.677Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 778.00
+2024-07-12T09:23:25.677Z - normal: Simulator: FRAME SCALE = 0.50
+2024-07-12T09:23:25.756Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2024-07-12T09:23:25.761Z - normal: Simulator: 
+2024-07-12T09:23:25.762Z - normal: Simulator: {
+2024-07-12T09:23:25.762Z - normal: Simulator: 	gl.supports_float_texture: true
+2024-07-12T09:23:25.762Z - normal: Simulator: 	gl.supports_ATITC: false
+2024-07-12T09:23:25.762Z - normal: Simulator: 	gl.supports_ETC2: false
+2024-07-12T09:23:25.762Z - normal: Simulator: 	build_type: DEBUG
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.vendor: Apple
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.renderer: Apple M2
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.supports_PVRTC: false
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.supports_ETC1: false
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.max_texture_size: 16384
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.supports_ASTC: false
+2024-07-12T09:23:25.763Z - normal: Simulator: 	gl.max_texture_units: 16
+2024-07-12T09:23:25.764Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2024-07-12T09:23:25.764Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2024-07-12T09:23:25.764Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2024-07-12T09:23:25.764Z - normal: Simulator: 	gl.supports_NPOT: true
+2024-07-12T09:23:25.764Z - normal: Simulator: 	gl.version: 2.1 Metal - 88.1
+2024-07-12T09:23:25.764Z - normal: Simulator: 	gl.supports_S3TC: true
+2024-07-12T09:23:25.764Z - normal: Simulator: 	compiled_with_profiler: false
+2024-07-12T09:23:25.764Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2024-07-12T09:23:25.764Z - normal: Simulator: }
+2024-07-12T09:23:25.778Z - normal: Simulator: Project Config:
+2024-07-12T09:23:25.779Z - normal: Simulator:     project dir: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2024-07-12T09:23:25.779Z - normal: Simulator:     writable path: $(PROJDIR)/
+2024-07-12T09:23:25.779Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2024-07-12T09:23:25.779Z - normal: Simulator:     frame size: 750 x 1334
+2024-07-12T09:23:25.779Z - normal: Simulator:     frame scale: 0.50
+2024-07-12T09:23:25.779Z - normal: Simulator:     show console: NO
+2024-07-12T09:23:25.780Z - normal: Simulator:     write debug log: NO ()
+2024-07-12T09:23:25.780Z - normal: Simulator:     listen: 
+2024-07-12T09:23:25.780Z - normal: Simulator:     debugger: none
+2024-07-12T09:23:25.780Z - normal: Simulator:     add searching path:
+2024-07-12T09:23:25.780Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:23:25.780Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:25.780Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2024-07-12T09:23:25.780Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:25.780Z - normal: Simulator: Initializing V8, version: 8.0.426.16
+2024-07-12T09:23:25.781Z - normal: Simulator: libuv version: 1.23.1-dev
+2024-07-12T09:23:25.782Z - normal: Simulator: Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2024-07-12T09:23:25.782Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2024-07-12T09:23:25.809Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2024-07-12T09:23:25.810Z - normal: Simulator: resetDesignResolution request
+2024-07-12T09:23:25.810Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:25.810Z - normal: Simulator: LOAD Js FILE: main.js
+2024-07-12T09:23:25.810Z - normal: Simulator: ------------------------------------------------
+2024-07-12T09:23:26.027Z - normal: Simulator: JS: Read json failed: path: /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/gamecaches/cacheList.json message: Unexpected end of JSON input
+2024-07-12T09:23:26.032Z - normal: Simulator: iShow!
+2024-07-12T09:23:26.111Z - normal: Simulator: JS: [WARN]: Should not specify class name Stick for Component which defines in project.
+2024-07-12T09:23:26.116Z - normal: Simulator: JS: load __quick_compile_project__: 9.637ms
+2024-07-12T09:23:26.657Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2024-07-12T09:23:26.672Z - normal: Simulator: D/renderer (626): Device caps: maxVextexTextures: 16, maxFragUniforms: 1024, maxTextureUints: 16, maxVertexAttributes: 16, maxDrawBuffers: 8, maxColorAttatchments: 8
+2024-07-12T09:23:26.672Z - normal: Simulator: JS: Cocos Creator v2.4.11
+2024-07-12T09:23:26.733Z - normal: Simulator: JS: Stick onLoaded
+2024-07-12T09:23:29.210Z - normal: Simulator: JS: Stick onTouchStart
+2024-07-12T09:23:31.789Z - normal: Simulator: JS: Stick onTouchEnd
+2024-07-12T09:23:34.163Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2024-07-12T09:23:34.164Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:34.173Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:34.173Z - normal: Simulator: GC begin ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:34.180Z - normal: Simulator: GC end ..., (js->native map) size: 115, all objects: 386
+2024-07-12T09:23:34.182Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:23:34.182Z - normal: Simulator: Function object is released!
+2024-07-12T09:23:34.182Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: -1
+2024-07-12T09:23:34.184Z - normal: Simulator: ScriptEngine::cleanup end ...
+2024-07-12T09:29:57.892Z - error: TypeError: Cannot read property '__vue__' of null
+    at Object.findRootVue (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/utils/utils.ccc:1:2740)
+    at ShadowRoot.<anonymous> (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/panel/index.ccc:1:5062)
+    at Object.fire (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.ccc:1:1642)
+    at HTMLElement._emitConfirm (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/elements/prop.ccc:1:6815)
+    at HTMLElement.<anonymous> (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/elements/prop.ccc:1:6006)
+    at Object.fire (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.ccc:1:1642)
+    at HTMLElement._onInputConfirm (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/elements/num-input.ccc:1:10084)
+    at HTMLInputElement.<anonymous> (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/behaviors/input-state.ccc:1:751)
+    at Object.clear (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/dom-utils.ccc:1:805)
+    at HTMLElement._clear (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/panel/index.ccc:1:6238)
