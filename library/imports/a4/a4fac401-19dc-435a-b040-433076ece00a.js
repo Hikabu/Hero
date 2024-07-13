@@ -23,50 +23,142 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.Stick = void 0;
+exports.StickGame = void 0;
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
-var Stick = /** @class */ (function (_super) {
-    __extends(Stick, _super);
-    function Stick() {
+var StickGame = /** @class */ (function (_super) {
+    __extends(StickGame, _super);
+    function StickGame() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
         _this.blockSpriteFrame = null;
+        _this.player = null;
         _this.stickNode = null;
         return _this;
     }
-    Stick.prototype.onLoad = function () {
-        cc.log('Stick onLoaded');
+    StickGame.prototype.onLoad = function () {
+        cc.log('StickGame onLoaded');
         this.stickNode = new cc.Node();
-        this.stickNode.addComponent(cc.Sprite);
-        this.stickNode.getComponent(cc.Sprite).spriteFrame = this.blockSpriteFrame;
+        var stickSprite = this.stickNode.addComponent(cc.Sprite);
+        stickSprite.spriteFrame = this.blockSpriteFrame;
         this.stickNode.anchorY = 0; // Anchor at the bottom
+        this.stickNode.width = 10; // Set a fixed width to avoid distortion
         this.node.addChild(this.stickNode);
-        this.node.on(cc.Node.EventType.TOUCH_START, this.onTouchStart, this);
-        this.node.on(cc.Node.EventType.TOUCH_END, this.onTouchEnd, this);
-        this.node.on(cc.Node.EventType.TOUCH_MOVE, this.onTouchMove, this);
+        // Attach touch event listeners to the canvas
+        var canvas = cc.find('Canvas');
+        if (canvas) {
+            canvas.on(cc.Node.EventType.TOUCH_START, this.onTouchStart, this);
+            canvas.on(cc.Node.EventType.TOUCH_END, this.onTouchEnd, this);
+        }
     };
-    Stick.prototype.onTouchStart = function (event) {
-        cc.log('Stick onTouchStart');
+    StickGame.prototype.onTouchStart = function (event) {
+        cc.log('StickGame onTouchStart');
         this.schedule(this.growStick, 0.1);
     };
-    Stick.prototype.onTouchEnd = function (event) {
-        cc.log('Stick onTouchEnd');
+    StickGame.prototype.onTouchEnd = function (event) {
+        cc.log('StickGame onTouchEnd');
         this.unschedule(this.growStick);
+        this.fallStick();
     };
-    Stick.prototype.onTouchMove = function (event) {
-        // Optionally handle touch move if needed
-    };
-    Stick.prototype.growStick = function () {
+    StickGame.prototype.growStick = function () {
         var stickHeight = this.stickNode.height + 100; // Increase stick height by 10 pixels
         this.stickNode.height = stickHeight;
     };
+    StickGame.prototype.fallStick = function () {
+        var _this = this;
+        cc.log('Stick falling');
+        var rotateAction = cc.rotateTo(0.5, 90).easing(cc.easeCubicActionOut()); // Rotate 90 degrees in 0.5 seconds
+        var moveAction = cc.sequence(rotateAction, cc.callFunc(function () {
+            if (_this.player) {
+                var playerComponent = _this.player.getComponent('Player');
+                if (playerComponent) {
+                    playerComponent.move(_this.stickNode.height);
+                }
+            }
+        }));
+        this.stickNode.runAction(moveAction);
+    };
     __decorate([
         property(cc.SpriteFrame)
-    ], Stick.prototype, "blockSpriteFrame", void 0);
-    Stick = __decorate([
-        ccclass('Stick')
-    ], Stick);
-    return Stick;
+    ], StickGame.prototype, "blockSpriteFrame", void 0);
+    __decorate([
+        property(cc.Node)
+    ], StickGame.prototype, "player", void 0);
+    StickGame = __decorate([
+        ccclass
+    ], StickGame);
+    return StickGame;
 }(cc.Component));
-exports.Stick = Stick;
+exports.StickGame = StickGame;
+// const { ccclass, property } = cc._decorator;
+// @ccclass('Stick')
+// export class Stick extends cc.Component {
+//     @property(cc.SpriteFrame)
+//     blockSpriteFrame: cc.SpriteFrame = null;
+//     private stickNode: cc.Node = null;
+//     onLoad() {
+//         cc.log('Stick onLoaded');
+//         this.stickNode = new cc.Node();
+//         this.stickNode.addComponent(cc.Sprite);
+//         this.stickNode.getComponent(cc.Sprite).spriteFrame = this.blockSpriteFrame;
+//         this.stickNode.anchorY = 0; // Anchor at the bottom
+//         this.node.addChild(this.stickNode);
+//         // T listeners
+//         const canvas = cc.find('Canvas');
+//         if (canvas) {
+//             canvas.on(cc.Node.EventType.TOUCH_START, this.onTouchStart, this);
+//             canvas.on(cc.Node.EventType.TOUCH_END, this.onTouchEnd, this);
+//         }
+//     }
+//     onTouchStart(event: cc.Touch) {
+//         cc.log('Stick onTouchStart');
+//         this.schedule(this.growStick, 0.1);
+//     }
+//     onTouchEnd(event: cc.Touch) {
+//         cc.log('Stick onTouchEnd');
+//         this.unschedule(this.growStick);
+//         this.fallStick();
+//     }
+//     growStick() {
+//         const stickHeight = this.stickNode.height + 100; // Increase
+//         this.stickNode.height = stickHeight;
+//     }
+//     fallStick() {
+//         cc.log('Stick falling');
+//         const rotateAction = cc.rotateTo(0.5, 90).easing(cc.easeCubicActionOut()); // Rotate
+//         this.stickNode.runAction(rotateAction);
+//     }
+// }
+// const { ccclass, property } = cc._decorator;
+// @ccclass('Stick')
+// export class Stick extends cc.Component {
+//     @property(cc.SpriteFrame)
+//     blockSpriteFrame: cc.SpriteFrame = null;
+//     private stickNode: cc.Node = null;
+//     onLoad() {
+//         cc.log('Stick onLoaded');
+//         this.stickNode = new cc.Node();
+//         this.stickNode.addComponent(cc.Sprite);
+//         this.stickNode.getComponent(cc.Sprite).spriteFrame = this.blockSpriteFrame;
+//         this.stickNode.anchorY = 0; // Anchor at the bottom
+//         this.node.addChild(this.stickNode);
+//         // Attach touch event listeners to the canvas
+//         const canvas = cc.find('Canvas');
+//         if (canvas) {
+//             canvas.on(cc.Node.EventType.TOUCH_START, this.onTouchStart, this);
+//             canvas.on(cc.Node.EventType.TOUCH_END, this.onTouchEnd, this);
+//         }
+//     }
+//     onTouchStart(event: cc.Touch) {
+//         cc.log('Stick onTouchStart');
+//         this.schedule(this.growStick, 0.1);
+//     }
+//     onTouchEnd(event: cc.Touch) {
+//         cc.log('Stick onTouchEnd');
+//         this.unschedule(this.growStick);
+//     }
+//     growStick() {
+//         const stickHeight = this.stickNode.height + 100; // Increase stick height by 10 pixels
+//         this.stickNode.height = stickHeight;
+//     }
+// }
 
 cc._RF.pop();

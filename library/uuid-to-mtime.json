@@ -499,109 +499,114 @@
     "meta": 1720335204076,
     "relativePath": "model/primitives.fbx"
   },
-  "a844f814-fb03-4bda-8ab8-0a50af78dd2e": {
-    "asset": 1720432269000,
-    "meta": 1720439061585,
-    "relativePath": "Game Res"
+  "30c39bee-96d2-4cfe-9610-3352d49f32f1": {
+    "asset": 1720432244000,
+    "meta": 1720777266983,
+    "relativePath": "Animations"
   },
-  "a7252ad9-e49c-4d86-a4a0-fc2fafb98fa1": {
-    "asset": 1720432269000,
-    "meta": 1720439061587,
-    "relativePath": "Game Res/Player"
+  "a844f814-fb03-4bda-8ab8-0a50af78dd2e": {
+    "asset": 1720772379000,
+    "meta": 1720777266984,
+    "relativePath": "Game Res"
   },
   "fa5e6dc4-987b-4d96-9f8c-a54ee31fde65": {
     "asset": 1720432269000,
-    "meta": 1720439061586,
+    "meta": 1720777266985,
     "relativePath": "Game Res/Background"
-  },
-  "0540add6-6bc8-4535-a05b-9e58445de943": {
-    "asset": 1720432253000,
-    "meta": 1720439061587,
-    "relativePath": "Game Res/Grounds"
   },
   "b2b1d1ae-e0b0-4e2c-a0c9-505b6ca265c9": {
     "asset": 1720432269000,
-    "meta": 1720439061587,
+    "meta": 1720777266986,
     "relativePath": "Game Res/Fonts"
   },
-  "6ab3ce2c-3aa5-4fe0-91e0-4690e883cc45": {
+  "0540add6-6bc8-4535-a05b-9e58445de943": {
+    "asset": 1720432253000,
+    "meta": 1720777266986,
+    "relativePath": "Game Res/Grounds"
+  },
+  "a7252ad9-e49c-4d86-a4a0-fc2fafb98fa1": {
     "asset": 1720432269000,
-    "meta": 1720439061587,
+    "meta": 1720777266987,
+    "relativePath": "Game Res/Player"
+  },
+  "6ab3ce2c-3aa5-4fe0-91e0-4690e883cc45": {
+    "asset": 1720772379000,
+    "meta": 1720777266988,
     "relativePath": "Game Res/sticks"
+  },
+  "96bcfdac-b2f5-4b9b-a9d1-7c8cfbf8d3b7": {
+    "asset": 1720339061983,
+    "meta": 1720777266997,
+    "relativePath": "Game Res/Fonts/LEMONMILK-Light.otf"
   },
   "aad045b2-7712-498d-a6a6-9a8fd366f5b5": {
     "asset": 1720432244000,
-    "meta": 1720439061586,
+    "meta": 1720777266998,
     "relativePath": "Prefabs"
   },
   "5962d9ce-87ac-4e1c-bd3f-63d50343d0c7": {
     "asset": 1720432244000,
-    "meta": 1720439061586,
+    "meta": 1720777267000,
     "relativePath": "Scenes"
   },
   "01fd97d6-c074-4ebb-a364-3b37ee4707ed": {
-    "asset": 1720749893000,
-    "meta": 1720750442152,
+    "asset": 1720779581000,
+    "meta": 1720850641421,
     "relativePath": "Scripts"
   },
-  "30c39bee-96d2-4cfe-9610-3352d49f32f1": {
-    "asset": 1720432244000,
-    "meta": 1720439061585,
-    "relativePath": "Animations"
+  "1ed61004-2caf-4559-8a95-521d05546ebc": {
+    "asset": 1720708951917,
+    "meta": 1720777267019,
+    "relativePath": "Scripts/Background.ts"
   },
   "80162ab1-61bf-4df2-ab87-84e792a82ea5": {
     "asset": 1720338807914,
-    "meta": 1720772371627,
+    "meta": 1720777267031,
     "relativePath": "Game Res/sticks/block.png"
-  },
-  "96bcfdac-b2f5-4b9b-a9d1-7c8cfbf8d3b7": {
-    "asset": 1720339061983,
-    "meta": 1720339061990,
-    "relativePath": "Game Res/Fonts/LEMONMILK-Light.otf"
   },
   "20b18ca4-f16d-4590-b617-43dcb2b79525": {
     "asset": 1720341012490,
-    "meta": 1720341012505,
+    "meta": 1720777267053,
     "relativePath": "Game Res/sticks/Sprites 1 copy.png"
+  },
+  "a2bc0677-d805-42a3-acb4-8a5b3244207b": {
+    "asset": 1720798460112,
+    "meta": 1720798460116,
+    "relativePath": "Test.fire"
+  },
+  "92741d72-4370-4c57-aa8d-d0b6f93732ff": {
+    "asset": 1720422321837,
+    "meta": 1720777267054,
+    "relativePath": "Game Res/Player/hero7.png"
+  },
+  "385695b9-bde6-4357-9887-90d878a1ba15": {
+    "asset": 1720422306522,
+    "meta": 1720777267056,
+    "relativePath": "Game Res/Background/pic-9.png"
+  },
+  "713c4550-878b-4e3d-b139-56d8eb2e925a": {
+    "asset": 1720422475182,
+    "meta": 1720777267057,
+    "relativePath": "Game Res/Background/pic-10.jpg"
   },
   "08b7f350-1cb7-460b-ae30-0f17181c3b7a": {
     "asset": 1720422065446,
-    "meta": 1720422065528,
+    "meta": 1720777267133,
     "relativePath": "Game Res/Background/pic-1.webp"
   },
   "9b98e062-046e-4e8c-a0a1-119dbd579a1a": {
     "asset": 1720422071744,
-    "meta": 1720422071859,
+    "meta": 1720777267222,
     "relativePath": "Game Res/Background/pic-5.jpg"
   },
-  "385695b9-bde6-4357-9887-90d878a1ba15": {
-    "asset": 1720422306522,
-    "meta": 1720422306561,
-    "relativePath": "Game Res/Background/pic-9.png"
-  },
-  "92741d72-4370-4c57-aa8d-d0b6f93732ff": {
-    "asset": 1720422321837,
-    "meta": 1720422321846,
-    "relativePath": "Game Res/Player/hero7.png"
-  },
-  "713c4550-878b-4e3d-b139-56d8eb2e925a": {
-    "asset": 1720422475182,
-    "meta": 1720422475207,
-    "relativePath": "Game Res/Background/pic-10.jpg"
-  },
-  "a2bc0677-d805-42a3-acb4-8a5b3244207b": {
-    "asset": 1720720940465,
-    "meta": 1720720940473,
-    "relativePath": "Test.fire"
-  },
-  "1ed61004-2caf-4559-8a95-521d05546ebc": {
-    "asset": 1720708951917,
-    "meta": 1720708953859,
-    "relativePath": "Scripts/Background.ts"
+  "e0658633-7f73-4232-bab0-4e72c6011471": {
+    "asset": 1720853227238,
+    "meta": 1720853238019,
+    "relativePath": "Scripts/Player.ts"
   },
   "a4fac401-19dc-435a-b040-433076ece00a": {
-    "asset": 1720776203303,
-    "meta": 1720776204228,
+    "asset": 1720853310007,
+    "meta": 1720853314930,
     "relativePath": "Scripts/Stick.ts"
   }
 }
