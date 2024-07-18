@@ -505,19 +505,14 @@
     "relativePath": "Animations"
   },
   "a844f814-fb03-4bda-8ab8-0a50af78dd2e": {
-    "asset": 1720772379000,
-    "meta": 1720777266984,
+    "asset": 1721291573000,
+    "meta": 1721292646476,
     "relativePath": "Game Res"
   },
   "fa5e6dc4-987b-4d96-9f8c-a54ee31fde65": {
     "asset": 1720432269000,
     "meta": 1720777266985,
     "relativePath": "Game Res/Background"
-  },
-  "b2b1d1ae-e0b0-4e2c-a0c9-505b6ca265c9": {
-    "asset": 1720432269000,
-    "meta": 1720777266986,
-    "relativePath": "Game Res/Fonts"
   },
   "0540add6-6bc8-4535-a05b-9e58445de943": {
     "asset": 1720432253000,
@@ -530,18 +525,13 @@
     "relativePath": "Game Res/Player"
   },
   "6ab3ce2c-3aa5-4fe0-91e0-4690e883cc45": {
-    "asset": 1720772379000,
-    "meta": 1720777266988,
+    "asset": 1721291573000,
+    "meta": 1721292646479,
     "relativePath": "Game Res/sticks"
   },
-  "96bcfdac-b2f5-4b9b-a9d1-7c8cfbf8d3b7": {
-    "asset": 1720339061983,
-    "meta": 1720777266997,
-    "relativePath": "Game Res/Fonts/LEMONMILK-Light.otf"
-  },
   "aad045b2-7712-498d-a6a6-9a8fd366f5b5": {
-    "asset": 1720432244000,
-    "meta": 1720777266998,
+    "asset": 1721281250000,
+    "meta": 1721292646477,
     "relativePath": "Prefabs"
   },
   "5962d9ce-87ac-4e1c-bd3f-63d50343d0c7": {
@@ -550,29 +540,19 @@
     "relativePath": "Scenes"
   },
   "01fd97d6-c074-4ebb-a364-3b37ee4707ed": {
-    "asset": 1720779581000,
-    "meta": 1720850641421,
+    "asset": 1721292216000,
+    "meta": 1721292646478,
     "relativePath": "Scripts"
-  },
-  "1ed61004-2caf-4559-8a95-521d05546ebc": {
-    "asset": 1720708951917,
-    "meta": 1720777267019,
-    "relativePath": "Scripts/Background.ts"
   },
   "80162ab1-61bf-4df2-ab87-84e792a82ea5": {
     "asset": 1720338807914,
-    "meta": 1720777267031,
-    "relativePath": "Game Res/sticks/block.png"
+    "meta": 1721017691885,
+    "relativePath": "Game Res/sticks/stick.png"
   },
   "20b18ca4-f16d-4590-b617-43dcb2b79525": {
     "asset": 1720341012490,
     "meta": 1720777267053,
     "relativePath": "Game Res/sticks/Sprites 1 copy.png"
-  },
-  "a2bc0677-d805-42a3-acb4-8a5b3244207b": {
-    "asset": 1720798460112,
-    "meta": 1720798460116,
-    "relativePath": "Test.fire"
   },
   "92741d72-4370-4c57-aa8d-d0b6f93732ff": {
     "asset": 1720422321837,
@@ -599,14 +579,89 @@
     "meta": 1720777267222,
     "relativePath": "Game Res/Background/pic-5.jpg"
   },
-  "e0658633-7f73-4232-bab0-4e72c6011471": {
-    "asset": 1720853227238,
-    "meta": 1720853238019,
-    "relativePath": "Scripts/Player.ts"
+  "0fad27b5-ec78-4ef5-8789-6d31ac39e68f": {
+    "asset": 1720338807914,
+    "meta": 1720902203222,
+    "relativePath": "Game Res/sticks/platform.png"
+  },
+  "aa5d5ba2-7ffd-403e-b049-fb68552206dd": {
+    "asset": 1721281244524,
+    "meta": 1721281244530,
+    "relativePath": "Prefabs/Platform.prefab"
+  },
+  "d6a4892e-5201-4a49-8d90-872e091cad58": {
+    "asset": 1721228612802,
+    "meta": 1721228632315,
+    "relativePath": "Scripts/sample.ts"
+  },
+  "5f0fdc54-5a67-422d-a184-d1fc4cb72f3a": {
+    "asset": 1721252945000,
+    "meta": 1721276360937,
+    "relativePath": "Game Res/audio"
+  },
+  "b9dc168a-3515-4b27-9f28-2132fc3800e3": {
+    "asset": 1721247159300,
+    "meta": 1721247160205,
+    "relativePath": "Game Res/audio/lego-building-classic-208359.mp3"
+  },
+  "e094eabb-265c-49a7-9552-81ca8ae483e6": {
+    "asset": 1721247163234,
+    "meta": 1721247163242,
+    "relativePath": "Game Res/audio/woosh-building-109596.mp3"
+  },
+  "5a3c7dc6-a2a5-4302-8d14-4f69a92c40a3": {
+    "asset": 1721252464180,
+    "meta": 1721252464183,
+    "relativePath": "Prefabs/Player.prefab"
+  },
+  "98e5551e-f472-4508-bf00-1c56b55137e8": {
+    "asset": 1721252936546,
+    "meta": 1721252937191,
+    "relativePath": "Game Res/audio/018136_funny-music-orchestra-wav-54828.mp3"
+  },
+  "038af50b-b940-4e54-9312-6302e1e36c42": {
+    "asset": 1721252939578,
+    "meta": 1721252939583,
+    "relativePath": "Game Res/audio/insane-funny-scream-199845.mp3"
+  },
+  "a2bc0677-d805-42a3-acb4-8a5b3244207b": {
+    "asset": 1721292751683,
+    "meta": 1721292751689,
+    "relativePath": "Test.fire"
+  },
+  "db5af02d-1cf0-4ac5-92d7-e590c9059a25": {
+    "asset": 1721277907856,
+    "meta": 1721277907860,
+    "relativePath": "Prefabs/Special.prefab"
+  },
+  "26a75725-b0c7-4006-a8e2-1a07c62cae12": {
+    "asset": 1721287455530,
+    "meta": 1721287620757,
+    "relativePath": "Scripts/Background.ts"
   },
   "a4fac401-19dc-435a-b040-433076ece00a": {
-    "asset": 1720853310007,
-    "meta": 1720853314930,
+    "asset": 1721288992787,
+    "meta": 1721289055811,
     "relativePath": "Scripts/Stick.ts"
+  },
+  "0bec8ef4-e817-4bd5-9811-e8fee54b848c": {
+    "asset": 1721290078792,
+    "meta": 1721292646503,
+    "relativePath": "Scripts/Popup.ts"
+  },
+  "2f2b312c-ac2e-4627-be0b-8431d400e75b": {
+    "asset": 1721291029778,
+    "meta": 1721291029917,
+    "relativePath": "Scripts/Game.ts"
+  },
+  "e0658633-7f73-4232-bab0-4e72c6011471": {
+    "asset": 1721291380540,
+    "meta": 1721291385635,
+    "relativePath": "Scripts/Player.ts"
+  },
+  "57381336-414b-4f5a-8b09-d9a96cb4facf": {
+    "asset": 1721292308165,
+    "meta": 1721292646490,
+    "relativePath": "Scripts/Platform.ts"
   }
 }

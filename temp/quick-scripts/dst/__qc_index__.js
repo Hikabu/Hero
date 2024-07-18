@@ -11,8 +11,12 @@
                     function __define (exports, require, module) {
                         if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}
 require('./assets/Scripts/Background');
+require('./assets/Scripts/Game');
+require('./assets/Scripts/Platform');
 require('./assets/Scripts/Player');
+require('./assets/Scripts/Popup');
 require('./assets/Scripts/Stick');
+require('./assets/Scripts/sample');
 
                     }
                     if (nodeEnv) {

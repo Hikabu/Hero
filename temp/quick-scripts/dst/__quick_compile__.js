@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/Scripts/Stick":2,"./assets/Scripts/Background":1,"./assets/Scripts/Player":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Background.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Stick.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Player.js"}];
+var scripts = [{"deps":{"./assets/Scripts/Platform":1,"./assets/Scripts/Background":2,"./assets/Scripts/Stick":3,"./assets/Scripts/Player":4,"./assets/Scripts/sample":5,"./assets/Scripts/Popup":6,"./assets/Scripts/Game":7},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Platform.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Background.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Stick.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Player.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/sample.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Popup.js"},{"deps":{},"path":"preview-scripts/assets/Scripts/Game.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 

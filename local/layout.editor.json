@@ -19,7 +19,7 @@
             "children": [
               {
                 "width": 289,
-                "height": 249.34375,
+                "height": 355,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -28,7 +28,7 @@
               },
               {
                 "width": 289,
-                "height": 467.640625,
+                "height": 362,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -38,13 +38,13 @@
             ]
           },
           {
-            "width": 796,
+            "width": 752,
             "height": 720,
             "type": "dock-v",
             "children": [
               {
-                "width": 796,
-                "height": 369.515625,
+                "width": 752,
+                "height": 361,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -52,8 +52,8 @@
                 ]
               },
               {
-                "width": 796,
-                "height": 347.484375,
+                "width": 752,
+                "height": 356,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -65,7 +65,7 @@
             ]
           },
           {
-            "width": 349,
+            "width": 393,
             "height": 720,
             "type": "panel",
             "active": 0,
@@ -106,6 +106,30 @@
       "y": 0,
       "width": 1440,
       "height": 900
+    },
+    "project-settings": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900
+    },
+    "preferences": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900
+    },
+    "simulator-debugger": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900
+    },
+    "builder": {
+      "x": 470,
+      "y": 39,
+      "width": 500,
+      "height": 728
     }
   },
   "panelLabelWidth": {}

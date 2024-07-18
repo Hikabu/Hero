@@ -1,115 +1,80 @@
-2024-07-13T06:03:56.439Z - success: protocol editor-framework registered
-2024-07-13T06:03:56.439Z - success: protocol app registered
-2024-07-13T06:03:56.439Z - success: protocol theme registered
-2024-07-13T06:03:56.439Z - success: protocol packages registered
-2024-07-13T06:03:56.446Z - normal: Load ~/.CocosCreator/settings.json
-2024-07-13T06:03:56.453Z - success: protocol uuid registerred
-2024-07-13T06:03:56.453Z - success: protocol db registerred
-2024-07-13T06:03:56.454Z - success: protocol thumbnail registerred
-2024-07-13T06:03:56.488Z - normal: Initializing Asset Database
-2024-07-13T06:03:56.489Z - normal: checking language setting...
-2024-07-13T06:03:56.489Z - normal: Language: en
-2024-07-13T06:03:56.490Z - success: protocol unpack registerred
-2024-07-13T06:03:56.490Z - success: protocol disable-commonjs registerred
-2024-07-13T06:03:59.582Z - normal: failed to connect login server due to request timeout
-2024-07-13T06:03:59.584Z - normal: Check project /Users/valeriafedorova/Desktop/TestGame
-2024-07-13T06:03:59.586Z - normal: Initializing project /Users/valeriafedorova/Desktop/TestGame
-2024-07-13T06:03:59.705Z - success: adapters loaded
-2024-07-13T06:03:59.707Z - success: asset-db-debugger loaded
-2024-07-13T06:03:59.734Z - success: fb-audience-network loaded
-2024-07-13T06:03:59.749Z - success: fb-live-stream loaded
-2024-07-13T06:03:59.750Z - success: google-play-instant loaded
-2024-07-13T06:03:59.751Z - success: jsb-adapter loaded
-2024-07-13T06:03:59.752Z - success: package-manager loaded
-2024-07-13T06:03:59.752Z - success: runtime-adapters loaded
-2024-07-13T06:03:59.754Z - success: runtime-dev-tools loaded
-2024-07-13T06:03:59.755Z - success: ui-kit-preview-extra loaded
-2024-07-13T06:03:59.756Z - success: ui-kit-preview loaded
-2024-07-13T06:04:00.080Z - success: alipay-minigame loaded
-2024-07-13T06:04:00.084Z - success: assets loaded
-2024-07-13T06:04:00.086Z - success: baidugame-opendata loaded
-2024-07-13T06:04:00.086Z - success: baidugame loaded
-2024-07-13T06:04:00.088Z - success: builder loaded
-2024-07-13T06:04:00.089Z - success: bytedance-opendata loaded
-2024-07-13T06:04:00.090Z - success: bytedance loaded
-2024-07-13T06:04:00.091Z - success: channel-upload-tools loaded
-2024-07-13T06:04:00.149Z - success: cloud-function loaded
-2024-07-13T06:04:00.233Z - success: cocos-services loaded
-2024-07-13T06:04:00.236Z - success: console loaded
-2024-07-13T06:04:00.237Z - success: curve-editor loaded
-2024-07-13T06:04:00.241Z - success: fb-instant-games loaded
-2024-07-13T06:04:00.243Z - success: game-window loaded
-2024-07-13T06:04:00.243Z - success: google-instant-games loaded
-2024-07-13T06:04:00.245Z - success: hierarchy loaded
-2024-07-13T06:04:00.246Z - success: huawei-agc loaded
-2024-07-13T06:04:00.248Z - success: huawei-runtime loaded
-2024-07-13T06:04:00.250Z - success: inspector loaded
-2024-07-13T06:04:00.256Z - success: cpk-publish loaded
-2024-07-13T06:04:00.257Z - success: keystore loaded
-2024-07-13T06:04:00.266Z - success: link-sure-runtime loaded
-2024-07-13T06:04:00.271Z - success: node-library loaded
-2024-07-13T06:04:00.272Z - success: open-recent-items loaded
-2024-07-13T06:04:00.273Z - success: oppo-runtime loaded
-2024-07-13T06:04:00.274Z - success: package-asset loaded
-2024-07-13T06:04:00.275Z - success: preferences loaded
-2024-07-13T06:04:00.277Z - success: project-importer loaded
-2024-07-13T06:04:00.280Z - success: project-settings loaded
-2024-07-13T06:04:00.287Z - success: qtt-runtime loaded
-2024-07-13T06:04:00.288Z - success: scene loaded
-2024-07-13T06:04:00.289Z - success: simulator-debugger loaded
-2024-07-13T06:04:00.289Z - success: sprite-editor loaded
-2024-07-13T06:04:00.313Z - success: store loaded
-2024-07-13T06:04:00.314Z - success: taobao-creativeapp loaded
-2024-07-13T06:04:00.316Z - success: timeline loaded
-2024-07-13T06:04:00.318Z - success: vivo-runtime loaded
-2024-07-13T06:04:00.319Z - success: wechatgame-opendata loaded
-2024-07-13T06:04:00.320Z - success: wechatgame loaded
-2024-07-13T06:04:00.322Z - success: xiaomi-runtime loaded
-2024-07-13T06:04:00.352Z - success: im-plugin loaded
-2024-07-13T06:04:00.352Z - success: preview server running at http://localhost:7456
-2024-07-13T06:04:00.753Z - normal: Initializing Cocos2d
-2024-07-13T06:04:00.888Z - normal: Initializing engine extends
-2024-07-13T06:04:01.497Z - normal: Loading packages
-2024-07-13T06:04:01.498Z - normal: Run Application
-2024-07-13T06:04:03.082Z - warn: Should not specify class name Stick for Component which defines in project.
-2024-07-13T06:04:03.319Z - success: cloud-function unloaded
-2024-07-13T06:04:03.731Z - info: Cocos Service load base data!
-2024-07-13T06:06:05.972Z - warn: Should not specify class name Stick for Component which defines in project.
-2024-07-13T06:08:07.067Z - warn: Should not specify class name Stick for Component which defines in project.
-2024-07-13T06:08:37.634Z - warn: Should not specify class name GrowStick for Component which defines in project.
-2024-07-13T06:09:51.070Z - warn: Should not specify class name Stick for Component which defines in project.
-2024-07-13T06:22:14.710Z - failed: load script [./assets/Scripts/Stick] failed : ReferenceError: rotate is not defined
-    at __define (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:38:1)
-    at /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:128:25
-    at Object.<anonymous> (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:135:19)
-    at Object.<anonymous> (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:137:3)
-    at Module._compile (internal/modules/cjs/loader.js:1078:30)
-    at Object.p (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/share/require.js:1:1969)
-    at Module.load (internal/modules/cjs/loader.js:935:32)
-    at Module._load (internal/modules/cjs/loader.js:776:14)
-    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
-    at Module.require [as __require] (internal/modules/cjs/loader.js:959:19)
-2024-07-13T06:23:22.636Z - warn: Should not specify class name Stick for Component which defines in project.
-2024-07-13T06:24:10.982Z - warn: Should not specify class name Stick for Component which defines in project.
-2024-07-13T06:37:20.145Z - error: Each script can have at most one Component.
-    at Object.errorID (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at define (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:346:10)
-    at Object.CCClass [as Class] (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1010:13)
-    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClassDecorator.js:305:16
-    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClassDecorator.js:78:14
-    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/polyfill/typescript.js:81:41
-    at /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:145:13
-    at __define (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:149:2)
-    at /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:188:25
-2024-07-13T06:37:20.146Z - failed: load script [./assets/Scripts/Stick] failed : TypeError: Cannot set property '_sealed' of null
-    at Object.CCClass [as Class] (/Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClass.js:1016:15)
-    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClassDecorator.js:305:16
-    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCClassDecorator.js:78:14
-    at /Applications/Cocos/Creator/2.4.11/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/polyfill/typescript.js:81:41
-    at /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:145:13
-    at __define (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:149:2)
-    at /Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:188:25
-    at Object.<anonymous> (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:195:19)
-    at Object.<anonymous> (/Users/valeriafedorova/Desktop/TestGame/temp/quick-scripts/dst/assets/Scripts/Stick.js:197:3)
-    at Module._compile (internal/modules/cjs/loader.js:1078:30)
-2024-07-13T06:45:00.764Z - warn: Should not specify class name Stick for Component which defines in project.
+2024-07-18T08:55:52.164Z - success: protocol editor-framework registered
+2024-07-18T08:55:52.164Z - success: protocol app registered
+2024-07-18T08:55:52.164Z - success: protocol theme registered
+2024-07-18T08:55:52.164Z - success: protocol packages registered
+2024-07-18T08:55:52.171Z - normal: Load ~/.CocosCreator/settings.json
+2024-07-18T08:55:52.178Z - success: protocol uuid registerred
+2024-07-18T08:55:52.178Z - success: protocol db registerred
+2024-07-18T08:55:52.179Z - success: protocol thumbnail registerred
+2024-07-18T08:55:52.217Z - normal: Initializing Asset Database
+2024-07-18T08:55:52.218Z - normal: checking language setting...
+2024-07-18T08:55:52.218Z - normal: Language: en
+2024-07-18T08:55:52.219Z - success: protocol unpack registerred
+2024-07-18T08:55:52.219Z - success: protocol disable-commonjs registerred
+2024-07-18T08:55:53.578Z - normal: connected!
+2024-07-18T08:55:54.014Z - normal: Check project /Users/valeriafedorova/Desktop/TestGame
+2024-07-18T08:55:54.016Z - normal: Initializing project /Users/valeriafedorova/Desktop/TestGame
+2024-07-18T08:55:54.137Z - success: adapters loaded
+2024-07-18T08:55:54.139Z - success: asset-db-debugger loaded
+2024-07-18T08:55:54.166Z - success: fb-audience-network loaded
+2024-07-18T08:55:54.180Z - success: fb-live-stream loaded
+2024-07-18T08:55:54.181Z - success: google-play-instant loaded
+2024-07-18T08:55:54.182Z - success: jsb-adapter loaded
+2024-07-18T08:55:54.183Z - success: package-manager loaded
+2024-07-18T08:55:54.184Z - success: runtime-adapters loaded
+2024-07-18T08:55:54.185Z - success: runtime-dev-tools loaded
+2024-07-18T08:55:54.186Z - success: ui-kit-preview-extra loaded
+2024-07-18T08:55:54.187Z - success: ui-kit-preview loaded
+2024-07-18T08:55:54.493Z - success: alipay-minigame loaded
+2024-07-18T08:55:54.496Z - success: assets loaded
+2024-07-18T08:55:54.497Z - success: baidugame-opendata loaded
+2024-07-18T08:55:54.498Z - success: baidugame loaded
+2024-07-18T08:55:54.500Z - success: builder loaded
+2024-07-18T08:55:54.501Z - success: bytedance-opendata loaded
+2024-07-18T08:55:54.502Z - success: bytedance loaded
+2024-07-18T08:55:54.503Z - success: channel-upload-tools loaded
+2024-07-18T08:55:54.560Z - success: cloud-function loaded
+2024-07-18T08:55:54.640Z - success: cocos-services loaded
+2024-07-18T08:55:54.642Z - success: console loaded
+2024-07-18T08:55:54.643Z - success: curve-editor loaded
+2024-07-18T08:55:54.647Z - success: fb-instant-games loaded
+2024-07-18T08:55:54.649Z - success: game-window loaded
+2024-07-18T08:55:54.649Z - success: google-instant-games loaded
+2024-07-18T08:55:54.651Z - success: hierarchy loaded
+2024-07-18T08:55:54.652Z - success: huawei-agc loaded
+2024-07-18T08:55:54.654Z - success: huawei-runtime loaded
+2024-07-18T08:55:54.655Z - success: inspector loaded
+2024-07-18T08:55:54.662Z - success: cpk-publish loaded
+2024-07-18T08:55:54.663Z - success: keystore loaded
+2024-07-18T08:55:54.671Z - success: link-sure-runtime loaded
+2024-07-18T08:55:54.675Z - success: node-library loaded
+2024-07-18T08:55:54.676Z - success: open-recent-items loaded
+2024-07-18T08:55:54.677Z - success: oppo-runtime loaded
+2024-07-18T08:55:54.678Z - success: package-asset loaded
+2024-07-18T08:55:54.678Z - success: preferences loaded
+2024-07-18T08:55:54.680Z - success: project-importer loaded
+2024-07-18T08:55:54.681Z - success: project-settings loaded
+2024-07-18T08:55:54.688Z - success: qtt-runtime loaded
+2024-07-18T08:55:54.689Z - success: scene loaded
+2024-07-18T08:55:54.690Z - success: simulator-debugger loaded
+2024-07-18T08:55:54.690Z - success: sprite-editor loaded
+2024-07-18T08:55:54.715Z - success: store loaded
+2024-07-18T08:55:54.716Z - success: taobao-creativeapp loaded
+2024-07-18T08:55:54.718Z - success: timeline loaded
+2024-07-18T08:55:54.720Z - success: vivo-runtime loaded
+2024-07-18T08:55:54.721Z - success: wechatgame-opendata loaded
+2024-07-18T08:55:54.723Z - success: wechatgame loaded
+2024-07-18T08:55:54.724Z - success: xiaomi-runtime loaded
+2024-07-18T08:55:54.755Z - success: im-plugin loaded
+2024-07-18T08:55:54.755Z - success: preview server running at http://localhost:7456
+2024-07-18T08:55:55.101Z - normal: Initializing Cocos2d
+2024-07-18T08:55:55.193Z - normal: Initializing engine extends
+2024-07-18T08:55:55.535Z - normal: Loading packages
+2024-07-18T08:55:55.536Z - normal: Run Application
+2024-07-18T08:55:57.598Z - warn: Script attached to "Platform" is missing or invalid. Detailed information:
+Node path: "Platform"
+Script UUID: "95f9a65b-352b-422c-8ede-ee74b48bd5bb"
+Class ID: "95f9aZbNStCLI7e7nS0i9W7"
+
+2024-07-18T08:55:57.996Z - info: Cocos Service load base data!
+2024-07-18T08:55:58.157Z - success: cloud-function unloaded
